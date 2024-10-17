@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Flowchart-Switch-case-While-Do-While\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA0AF69-9FA6-4CAF-95E5-99D182F236B5}|Flowchart-Switch-case-While-Do-While\\Flowchart-Switch-case-While-Do-While.csproj|c:\\users\\elvin\\desktop\\c#\\console\\flowchart-switch-case-while-do-while\\flowchart-switch-case-while-do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA0AF69-9FA6-4CAF-95E5-99D182F236B5}|Flowchart-Switch-case-While-Do-While\\Flowchart-Switch-case-While-Do-While.csproj|solutionrelative:flowchart-switch-case-while-do-while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Flowchart-Switch-case-While-Do-While\\Flowchart-Switch-case-While-Do-While\\Program.cs",
+              "RelativeDocumentMoniker": "Flowchart-Switch-case-While-Do-While\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Flowchart-Switch-case-While-Do-While\\Flowchart-Switch-case-While-Do-While\\Program.cs",
+              "RelativeToolTip": "Flowchart-Switch-case-While-Do-While\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T21:26:20.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

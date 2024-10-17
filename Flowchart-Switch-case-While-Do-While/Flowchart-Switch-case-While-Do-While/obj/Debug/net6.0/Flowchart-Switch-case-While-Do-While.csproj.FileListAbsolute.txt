@@ -1,0 +1,14 @@
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\bin\Debug\net6.0\Flowchart-Switch-case-While-Do-While.exe
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\bin\Debug\net6.0\Flowchart-Switch-case-While-Do-While.deps.json
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\bin\Debug\net6.0\Flowchart-Switch-case-While-Do-While.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\bin\Debug\net6.0\Flowchart-Switch-case-While-Do-While.dll
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\bin\Debug\net6.0\Flowchart-Switch-case-While-Do-While.pdb
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.dll
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\refint\Flowchart-Switch-case-While-Do-While.dll
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.pdb
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\Flowchart-Switch-case-While-Do-While.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console\Flowchart-Switch-case-While-Do-While\Flowchart-Switch-case-While-Do-While\obj\Debug\net6.0\ref\Flowchart-Switch-case-While-Do-While.dll
